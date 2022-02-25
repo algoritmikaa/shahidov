@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+ background-image: linear-gradient(lightblue,white);
+}
+
+.link-header {
+    border: 3px solid orange;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 16px;
+    background-color: orange;
+    text-decoration: none;
+    color: white;
+}
+
+.link-nav:hover {
+    color: orange;
+}
+
+.social:focus {
+    border: 10px solid orange;
+}
+
+.link-text:hover {
+    color: orange;
+}
+
+header {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
